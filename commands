@@ -26,6 +26,8 @@ $ git branch <name>
 
 $ git checkout <name>
 
+$ git push -u origin master
+
 --testing merge--
 
 
