@@ -18,4 +18,10 @@ $ git rm --cached <file> //untrack
 
 $ git add . //add all
 
+$ git branch <name>
+
+$ git checkout <name>
+
+$ 
+
 
