@@ -18,7 +18,16 @@ $ git rm --cached <file> //untrack
 
 $ git add . //add all
 
+<<<<<<< HEAD
 $ git commit -m "message"
 
 $ touch .gitignore //type files to ignore
+=======
+$ git branch <name>
+
+$ git checkout <name>
+
+$ 
+
+>>>>>>> login
 
