@@ -18,4 +18,7 @@ $ git rm --cached <file> //untrack
 
 $ git add . //add all
 
+$ git commit -m "message"
+
+$ touch .gitignore //type files to ignore
 
